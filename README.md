@@ -1,4 +1,4 @@
-# New-Super-Virtual-Chest
+New-Super-Virtual-Chest
 由CEBCTADET开发的用于Minecraft Java Edition的Mod,支持Farbic1.21.10-1.21.11  Quilt1.21.10-1.21.11
 
 📦 特色
@@ -18,7 +18,7 @@
 
 <target>—— 对公开宝箱来说，或者作为在线玩家对私人宝箱的玩家名。
 <name>– 箱子的唯一名称（例如，）:community_farm
-[size]–（27个槽位）或（54个槽位）。默认为 :small large large
+[size]–（27个槽位）或（54个槽位）默认为 :small large large
 示例： /NSvc allplayer create PublicStorage large /NSvc Steve create StevePrivate small
 
 📂 打开一个箱子
@@ -31,8 +31,8 @@
 🗑️ 删除宝箱
 /NSvc <target> delete <name> [close]
 
-无——开始删除（公共宝箱需等待3天;私人宝箱需确认）。close
-与 – 取消待删除。close
+无——开始删除（公共宝箱需等待3天;私人宝箱需确认）   close
+与 – 取消待删除   close
 示例： /NSvc allplayer delete PublicStorage    /NSvc allplayer delete PublicStorage close
 
 📋 列表宝箱

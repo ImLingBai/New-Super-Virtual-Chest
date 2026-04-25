@@ -25,7 +25,7 @@ New-Super-Virtual-Chest
 所有命令都使用前缀:/NSvc
 
 📝 创建宝箱
-/NSvc <target> create <name> [small|large]    <target>—— 对公开宝箱来说，或者作为在线玩家对私人宝箱的玩家名。   <name>– 箱子的唯一名称（例如，）:community_farm    [size]–（27个槽位）或（54个槽位）默认为 :small large large
+/NSvc <target> create <name> [small|large]    <target>—— 对公开宝箱来说，或者作为在线玩家对私人宝箱的玩家名。   <name>– 箱子的唯一名称（例如，）:community_farm        [size]–（27个槽位）或（54个槽位）默认为 :small large large
       示例： /NSvc allplayer create PublicStorage large /NSvc Steve create StevePrivate small
 
 📂 打开一个箱子

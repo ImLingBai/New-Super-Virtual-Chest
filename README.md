@@ -1,9 +1,9 @@
 New-Super-Virtual-Chest
 由CEBCTADET开发的用于Minecraft Java Edition的Mod,支持Farbic1.21.10-1.21.11  Quilt1.21.10-1.21.11
 
-此MODS所有者，开发者为CEBCTADET，我仅是帮他将此Mod上传至GitHub
+此Mod所有者，开发者为CEBCTADET，我仅是帮他将此Mod上传至GitHub
 
-此Mdo也在Modrinth上（正在审核中）
+此Mod也在Modrinth上（正在审核中）
 
 📦 特色
 🗃️ 虚拟宝箱——创建不绑定任何物理方块的宝箱。

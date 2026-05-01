@@ -46,7 +46,9 @@ New-Super-Virtual-Chest
 /NSvc <target> delete <name> [close]
 
 无——开始删除（公共宝箱需等待3天;私人宝箱需确认）   close
+
 与 – 取消待删除   close
+
 示例： /NSvc allplayer delete PublicStorage    /NSvc allplayer delete PublicStorage close
 
 📋 列表宝箱
